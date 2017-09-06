@@ -1,0 +1,25 @@
+SUMMARY : 1  STATEMENT: The task is to devise and fabricate a manually controlled (wired/wireless) robot that can navigate through the estate  filled with hurdles and obstacles of varying difficulties.
+
+Along with these hurdles the arena also includes undisclosed events and a lot of rough, slippery, moving inclined plains, rocky pathways and grabbing of objects(ball or rectangular boxes) which challenges the maneuverability of the  robot.
+
+In case the robot topples, the robot will be placed at the previous check point.
+
+The time taken to complete the first stage of the arena will be noted.
+
+If at the end of 5 minutes, the bot is not  able to complete the stage, then the team will be disqualified.
+
+The total weight of the robot and all the equipment and accessories including the power source should be no more than 3 kg.
+
+However, the body of the bot can move with respect to the wheels) with the wheels still on ground.
+
+Organisers will not be responsible for any alteration in the arena by the previous machines on the arena.
+
+Any team that is not ready at the time specified will be removed from the competition automatically.
+
+The machines would be checked for their consistency before the run and would be discarded if found inconsistent with  specifications.
+
+Participants should not dismantle their robots before the completion of the whole competition as the machines might need to  be verified by the organisers at a later stage to ensure that the participants have not violated any of the rules.
+
+The organisers reserve the right to change any or all of the above rules as they deem fit.
+
+ -----------------------------------------------------------.
