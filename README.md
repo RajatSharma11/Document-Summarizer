@@ -7,6 +7,10 @@ NOTE: The project uses the package NLTK (for tokenizer only). pip install the pa
 If the models are not available, open python terminal, import nltk, enter the command "nltk.download()", under the "models" tab 
 select punkt and press download.
 
+Input formats: path to a directory containing text files (name of the files will be in the format of <id>.txt, and path to a directory for output.
+
+Output Format:  one output file containing summary of one input file, where the name of the output file will be same as the input file.
+
 TEAM MATES:
 Rajat Sharma
 Prabal Vashisht
