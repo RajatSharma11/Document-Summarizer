@@ -1,0 +1,30 @@
+Fast beam of neutral atoms created using lasers and plasma
+1 Electrically charged particles are relatively easy to accelerate using electric and magnetic fields.
+2 Neutral particles cannot be steered in the same way, which is a bit disappointing, since they are useful experimentally due to their much greater ability to pierce target materials.
+3 A promising technique uses very short pulses of intense laser light to accelerate neutral particles, though up until now it has only achieved low energy transfer.
+4 A new experiment has achieved neutral particle energies on the order of a billion times greater than prior efforts.
+5 R.
+6 Rajeev and colleagues managed this by accelerating particles while they were charged, and then transferring in electrons to neutralize the charge.
+7 This method has the advantage of being compact, and therefore useful for applications such as nanolithography; however, the authors argued their approach can be generalized for other purposes.
+8 Laser acceleration works by bombarding atoms with light pulses to strip electrons off, creating a plasma—a neutral gas of ions and electrons.
+9 Since the electrons are a lot less massive than the ions, you can tune the laser pulses in a precise way that separates them.
+10 The electrons shoot off, leaving behind a gas of positively charged atoms moving in coherent waves.
+11 As we all know from elementary school physics, like charges repel.
+12 So any positively charged particle added to the plasma will experience acceleration from the plasma waves.
+13 Laser plasma accelerators are more compact than many other accelerator designs, including those used in big experiments like the Large Hadron Collider (LHC), although they haven't yet reached the same energies.
+14 Plasma acceleration (sans lasers) is also important in many astrophysical processes.
+15 To adapt the method to neutral particles, the authors of the new study began with all the steps in the previous paragraph, using a plasma of argon atoms.
+16 However, the free electrons in the plasma were recombined with non-accelerated ions to create Rydberg atoms, in which electrons are only barely attached to the nucleus.
+17 Those loosely connected electrons were then transferred via collision to the rapidly moving ions from the accelerator, neutralizing them.
+18 After applying powerful electric fields to separate out any residual ions, the researchers were left with a directed beam of highly energetic neutral atoms.
+19 By piggybacking on laser plasma acceleration, they achieved megaelectronvolt (MeV) energies, a billion times greater than previous efforts.
+20 For comparison, these are equivalent to the energy of a large van de Graaf generator like that on display at the Boston Museum of Science .
+21 The LHC achieves energies a million times greater still—teraelectronvolt (TeV)—using magnetic fields.
+22 But, unlike these other experiments, the laser plasma accelerator was desktop-sized.
+23 Neutral particles have greater penetrating power when striking a target for the same reason they are hard to accelerate: they are not affected by electromagnetic fields.
+24 That makes them useful in nanolithography: "printing" surfaces with patterns that have specific electronic properties.
+25 The researchers also proposed extending the technique to lighter atoms, specifically hydrogen.
+26 This could lead to advances in plasma physics, as well as application to more conventional particle colliders, providing new avenues for research.
+27 Nature Physics , 2013.
+28 DOI: 10.
+29 1038/nphys2526 ( About DOIs ).

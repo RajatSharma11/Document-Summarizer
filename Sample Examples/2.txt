@@ -1,0 +1,16 @@
+Nexus One could be one of the first Android smartphones to go into orbit
+1 The Nexus One may be a few iterations behind the latest Nexus handsets and other Android smartphones on the market, but that doesn't mean it isn't suited for a trip into space.
+2 As reported by ZDNet , the University of Surrey's Space Centre (SSC) will soon send what it says is the first Android-powered smartphone into orbit.
+3 The handset will be strapped to the STRaND-1 , a " CubeSat " (a small satellite used for research) and will launch from Sriharikota, India later this month.
+4 SSC's lead engineer, Dr.
+5 Chris Bridges, told ZDNet that the crew had done some very thorough testing on the handset to make sure it could handle the varying temperatures and radiation.
+6 It has a good chance of working as it should," he said.
+7 You can never make true design evolutions or foster innovation without taking a few risks.
+8 During flight, the STRaND-1 satellite will collect data with experimental applications.
+9 The satellite will run apps that were chosen in a Facebook competition—apps like Scream in Space, which will use the Nexus One's speakers to test whether someone can, in fact, scream in space.
+10 In the second phase of the flight , the STRaND-1 team will hand over the satellite's in-orbit operations to the Nexus One to test out its capabilities with this type of scenario.
+11 The flight will be one of the first attempts at controlling a satellite with a smartphone.
+12 When asked why SCC chose the Nexus One, Bridges told ZDNet that it was simply "the best Android handset" available for the project.
+13 Last year, the team had put together a £250,000 (about $395,900) budget for the project, which Bridges had confirmed had been met.
+14 Satellites typically require specialized computing hardware, like radiation-hardened chips, which can be extremely expensive (one common example is the RAD750 , a 200MHz PowerPC processor which costs about $200,000 for a CPU and compatible motherboard).
+15 A smartphone won't be flying a big spaceship anytime soon, but the data gathered from testing regular consumer hardware with open software in orbit will be helpful in lowering the cost of commercial and research access to space.

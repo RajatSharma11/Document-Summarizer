@@ -11,6 +11,8 @@ Input formats: path to a directory containing text files (name of the files will
 
 Output Format:  one output file containing summary of one input file, where the name of the output file will be same as the input file.
 
+Summary for files in Sample Example folder is shown in Report.
+
 TEAM MATES:
 Rajat Sharma
 Prabal Vashisht
